@@ -1,0 +1,7 @@
+print(2+2)
+print(5-1)
+print(3*5)
+print(10**5)
+print(45%3)
+print(86/2)
+print("Completed")
